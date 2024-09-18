@@ -1,22 +1,22 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>Life gives a unexpected things to live happily</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Job</b></label>
+    <label for="Name"><b>Kishore</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter Job Code</b></label>
+    <label for="mobile"><b>Enter Abdul</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
     
-    <label for="mobile"><b>Enter Date of Birth</b></label>
+    <label for="mobile"><b>Enter Saran</b></label>
     <input type="text" placeholder="Enter Date of Birth" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter Venky</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
