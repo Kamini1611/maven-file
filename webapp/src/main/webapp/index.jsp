@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>yarra nambi nann poranthen ponga da ponga</h1>
+    <h1>Registration form for Cloud Computing Course</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -16,15 +16,16 @@
     <input type="text" placeholder="Enter Date of Birth" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>kamini</b></label>
+    <label for="email"><b>Enter email</b></l abel>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>venky cute uh</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholde
+r="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>saran</b></label>
+    <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
@@ -35,7 +36,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> All the Best, Best of luck from Kamini Angel</h1>
+   <h1> All the Best, Best of luck</h1>
 
   
 </form>
